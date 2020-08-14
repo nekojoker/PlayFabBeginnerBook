@@ -1,3 +1,5 @@
+# 「猫でもわかる PlayFab 入門」のサポートページ
+
 ▼ 書籍販売 URL  
 https://nekojoker.booth.pm/items/2236684
 
